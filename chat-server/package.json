@@ -40,7 +40,7 @@
     "graphql-subscriptions": "^0.5.8",
     "graphql-tools": "^2.24.0",
     "jsonwebtoken": "^8.2.1",
-    "lodash": "^4.17.5",
+    "lodash": "^4.17.13",
     "merge-graphql-schemas": "^1.5.1",
     "pg": "^7.4.1",
     "sequelize": "^4.37.6",
